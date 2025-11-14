@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="News",Sample 1
-https://example.com/stream1.m3u8
-#EXTINF:-1 group-title="Sports",Sample 2
-https://example.com/stream2.m3u8
